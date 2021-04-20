@@ -1,8 +1,8 @@
 ### Hey, I'm Key 👋
 
 
-- 🌱  I’m currently learning JavaScript, NodeJS, ReactJS
-- 💬  Ask me about JavaScript
+- 🌱  I’m currently learning everything. Never stop learning.
+- ⚡ I've developed projects with HTML, CSS, JavaScript, ReactJS, NodeJS.
 - 📫  How to reach me: <a href="https://www.linkedin.com/in/key-yu-wan">LinkedIn</a> | <a href="https://www.instagram.com/keyyuwan/">Instagram</a> | 
 <a href="mailto:keyflcbyuwan@gmail.com">Email</a>
 - ⚡ Fun fact: I'm a Rubik's Cube speedsolver since 2013 with national and international titles and records in the category Skewb and 2x2x2.
