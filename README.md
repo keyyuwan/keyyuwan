@@ -1,7 +1,7 @@
 ### Hey, I'm Key 👋
 
 
-- 🌱  I’m currently learning everything. Never stop learning.
+- 🌱  I’m constantly learning new things.
 - 🧑🏻‍💻 I've developed projects with HTML, CSS, JavaScript, ReactJS, NodeJS.
 - 📫  How to reach me: <a href="https://www.linkedin.com/in/key-yu-wan">LinkedIn</a> | <a href="https://www.instagram.com/keyyuwan/">Instagram</a> | 
 <a href="mailto:keyflcbyuwan@gmail.com">Email</a>
