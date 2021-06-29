@@ -1,7 +1,7 @@
 ### Hey, I'm Key 👋
 
 
-- 🌱  I’m constantly learning new things.
+- 🌱  Constantly learning new things.
 - 🚀 I'm a student of the Ignite bootcamp from <a href="https://rocketseat.com.br/">Rocketseat</a>.
 - 🧑🏻‍💻 Currently, I'm developing projects with TypeScript, ReactJS, React Native and Next.js.
 - 📫  How to reach me: <a href="https://www.linkedin.com/in/key-yu-wan">LinkedIn</a> | <a href="https://www.instagram.com/keyyuwan/">Instagram</a> | 
