@@ -2,7 +2,7 @@
 
 
 - 🌱  Constantly learning new things and having new experiences.
-- 🚀 I'm a student of the Ignite bootcamp (ReactJS) from <a href="https://rocketseat.com.br/">Rocketseat</a>.
+- 🚀 I'm a former student of the Ignite bootcamp (ReactJS) from <a href="https://rocketseat.com.br/">Rocketseat</a>.
 - 🧑🏻‍💻 Developing projects with ReactJS, Next.js, React Native and TypeScript.
 - 📫  How to reach me: <a href="https://www.linkedin.com/in/key-yu-wan">LinkedIn</a> | <a href="https://www.instagram.com/keyyuwan/">Instagram</a> | 
 <a href="mailto:keyflcbyuwan@gmail.com">Email</a>
