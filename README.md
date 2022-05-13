@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Key, Front-end dev
+## 👋 Hey, I'm Key
 
 - 💙 Passionate about Web and Mobile development, and, through technology, impact on millions of lives finding solutions and solving society's problems;
 - 🚀 I'm a former student of the Ignite bootcamp (ReactJS) from <a href="https://rocketseat.com.br/">Rocketseat</a>;
