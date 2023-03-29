@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Key
+## 👋 I'm Key, Web & Mobile Developer
 
 - 💙 Passionate about web and mobile development and to find solutions through technology
 - 💻 **ReactJS**, **Next.js**, **React Native**, **Node.js**
