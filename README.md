@@ -1,4 +1,4 @@
-## 👋 I'm Key, Full-stack Developer
+## 👋 I'm Key, Front-end Developer
 
 - 💙 Passionate about finding solutions through technology
 - 💻 Stack: **ReactJS**, **Next.js**, **TypeScript**, **Node.js**
