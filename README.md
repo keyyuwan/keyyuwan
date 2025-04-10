@@ -1,7 +1,13 @@
 ## Hey, I'm Key!
 
-- 📍 Fullstack Developer from Curitiba, Brazil
-- 💙 Passionate about finding solutions and impact on people's lives through technology
-- ⏱️ 4+ years of experience
-- 🧑‍💻 Expertise: ReactJS, Next.js, TypeScript, TailwindCSS, React Native, Node.js, Express.js, Fastify, NestJS, Jest, Vitest, PostreSQL, Prisma.
-- 📫 Feel free to contact: <a href="https://www.linkedin.com/in/key-yu-wan" target="_blank">LinkedIn</a> | <a href="mailto:keyflcbyuwan@gmail.com" target="_blank">Email</a>
+Fullstack Software Engineer with more than 4 years of experience building scalable, testable, and high-performance solutions for fintechs, marketplaces, and management systems. Strong background in clean architecture, performance optimization, and end-to-end development.
+
+Technologies:
+- JavaScript / TypeScript / Node.js
+- ReactJS / Next.js
+- React Native / Expo
+- Node.js / Express.js / Fastify / NestJS
+- DDD / Clean Architecture / SOLID / Design Patterns
+- Tests (unitary / integration / e2e)
+
+I’m driven by a genuine passion for creating solutions that improve people’s lives, always aproaching every challenge with curiosity, adaptability, and a growth mindset. I thrive in dynamic environments where effective communication and collaboration are key. My ability to adapt quickly to new challenges and learn rapidly has empowered me to contribute effectively across various projects and teams.
