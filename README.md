@@ -1,6 +1,6 @@
 ## Hey, I'm Key!
 
-Fullstack Software Engineer with more than 4 years of experience building scalable, testable, and high-performance solutions for fintechs, marketplaces, and management systems. Strong background in clean architecture, performance optimization, and end-to-end development.
+Fullstack Software Engineer with experience in building scalable, testable, and high-performance solutions for startups, fintechs, marketplaces, and management systems. Strong background in clean architecture, performance optimization, and end-to-end development.
 
 Technologies:
 - JavaScript / TypeScript / Node.js
