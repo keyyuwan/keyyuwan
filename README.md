@@ -1,7 +1,3 @@
-## Hey, I'm Key!
+Seasoned AI & Full Stack Engineer with experience building and shipping products across the fintech and creator economy industries. Experienced in fast-paced startup environments, taking end-to-end ownership of products, from architecture and product/technical decisions to development, shipping, and continuous improvement.
 
-For over 5 years, I’ve been delivering high-quality software for startups, specializing in fintech solutions over the last 2 years.
-
-I’m driven by a genuine passion for building solutions that drive business growth and market impact, always approaching every challenge with curiosity, adaptability, and a growth mindset.
-
-I thrive in fast-paced environments, combining clear communication, rapid learning, and adaptability to solve complex problems and drive product outcomes.
+AI Engineering: experienced in AI-assisted development, Spec-Driven Development, and Harness Engineering practices, building structured, reliable, and scalable workflows for AI-powered software development.
